@@ -4,5 +4,8 @@ This freelance project, mainly exploratory in nature, focused on using mathemati
 
 Concepts covered and utilized include Gaussian Distribution, Poisson Distribution, Correlation Analysis, etc; Engaging and Sophisticated Visuals such as Heatmaps were also created to convey insights optimally.
 
-## Tools Used
+## Credits for Guidance:
+Ken Jee (https://www.youtube.com/@KenJee_ds), ciao.football (https://www.youtube.com/@ciao.football)
+
+## Tools Used:
 Python, Microsoft Excel.
