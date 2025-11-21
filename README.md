@@ -9,3 +9,8 @@ Ken Jee (https://www.youtube.com/@KenJee_ds), ciao.football (https://www.youtube
 
 ## Tools Used:
 Python, Microsoft Excel.
+
+## Highlight(s):
+
+<img width="1188" height="679" alt="image" src="https://github.com/user-attachments/assets/c92e0e0a-5d96-4da5-9ba0-dda52cf5f5b1" />
+
