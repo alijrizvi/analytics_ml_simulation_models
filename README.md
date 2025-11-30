@@ -2,8 +2,8 @@
 
 This freelance project, mainly exploratory in nature, focused on using mathematical modeling and machine learning techniques to simulate and predict match outcomes in the sports of football (soccer) and basketball.
 
-## Tools & Methodology
-In addition to the AI-Augmented Data Analytics and Machine Learning skills utilized, concepts covered and utilized include Gaussian Distribution, Poisson Distribution, Correlation Analysis, etc. 
+## Tools Used & Methodology
+In addition to the AI-Augmented Data Analytics and Machine Learning skills utilized, concepts covered and utilized include Gaussian Distribution, Poisson Distribution, Correlation Analysis, etc. Work, including visualizations, was performed mainly in Python with a Poisson model also implemented in Microsoft Excel.
 Using a holistically meticulous and structured approach to obtaining, transforming, and then using data for insights and forecasts, cutting-edge Data Science methodology was applied.
 
 ## Visualization
